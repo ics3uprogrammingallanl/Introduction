@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\bin\Debug\HelloWorldAllanL.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\bin\Debug\HelloWorldAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\bin\Debug\HelloWorldAllanL.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\HelloWorldAllanL\HelloWorldAllanL\obj\Debug\HelloWorldAllanL.pdb

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\bin\Debug\SchoolAppAllan.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\bin\Debug\SchoolAppAllan.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\bin\Debug\SchoolAppAllan.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.frmSchoolApp.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\SchoolAppAllan\SchoolAppAllan\obj\Debug\SchoolAppAllan.pdb

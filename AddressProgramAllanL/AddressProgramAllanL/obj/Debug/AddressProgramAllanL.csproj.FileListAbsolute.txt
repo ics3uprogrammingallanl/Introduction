@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\bin\Debug\AddressProgramAllanL.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\bin\Debug\AddressProgramAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\bin\Debug\AddressProgramAllanL.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.AddressProgramForm.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Leveille, Allan (s436282)\Introduction\AddressProgramAllanL\AddressProgramAllanL\obj\Debug\AddressProgramAllanL.pdb
