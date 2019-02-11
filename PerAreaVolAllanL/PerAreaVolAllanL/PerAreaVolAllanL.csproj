@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{819DAA99-0902-4E62-AF72-54E1D5895F74}</ProjectGuid>
+    <ProjectGuid>{3093C175-FE19-4D0D-AB87-CA72BECCD8A1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HelloWorldIntAllanL</RootNamespace>
-    <AssemblyName>HelloWorldIntAllanL</AssemblyName>
+    <RootNamespace>PerAreaVolAllanL</RootNamespace>
+    <AssemblyName>PerAreaVolAllanL</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloWorldIntForm.cs">
+    <Compile Include="PerAreaVolForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="HelloWorldIntForm.Designer.cs">
-      <DependentUpon>HelloWorldIntForm.cs</DependentUpon>
+    <Compile Include="PerAreaVolForm.Designer.cs">
+      <DependentUpon>PerAreaVolForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="HelloWorldInt.cs" />
+    <Compile Include="PerAreaVol.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="HelloWorldIntForm.resx">
-      <DependentUpon>HelloWorldIntForm.cs</DependentUpon>
+    <EmbeddedResource Include="PerAreaVolForm.resx">
+      <DependentUpon>PerAreaVolForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -64,7 +64,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,9 +77,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1_U-R58ahr5dtAvtSLGK2wXg.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
