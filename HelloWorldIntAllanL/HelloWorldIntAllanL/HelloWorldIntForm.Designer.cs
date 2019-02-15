@@ -41,6 +41,7 @@
             // radEnglish
             // 
             this.radEnglish.AutoSize = true;
+            this.radEnglish.ForeColor = System.Drawing.SystemColors.Control;
             this.radEnglish.Location = new System.Drawing.Point(6, 45);
             this.radEnglish.Name = "radEnglish";
             this.radEnglish.Size = new System.Drawing.Size(79, 24);
@@ -101,8 +102,10 @@
             // lblHelloWorld
             // 
             this.lblHelloWorld.AutoSize = true;
+            this.lblHelloWorld.BackColor = System.Drawing.Color.Transparent;
             this.lblHelloWorld.Font = new System.Drawing.Font("Malgun Gothic", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHelloWorld.Location = new System.Drawing.Point(542, 76);
+            this.lblHelloWorld.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblHelloWorld.Location = new System.Drawing.Point(574, 96);
             this.lblHelloWorld.Name = "lblHelloWorld";
             this.lblHelloWorld.Size = new System.Drawing.Size(425, 86);
             this.lblHelloWorld.TabIndex = 5;
@@ -111,12 +114,14 @@
             // 
             // grbHelloWorldInt
             // 
+            this.grbHelloWorldInt.BackColor = System.Drawing.Color.Transparent;
             this.grbHelloWorldInt.Controls.Add(this.radArabic);
             this.grbHelloWorldInt.Controls.Add(this.radGreek);
             this.grbHelloWorldInt.Controls.Add(this.radSwedish);
             this.grbHelloWorldInt.Controls.Add(this.radFrench);
             this.grbHelloWorldInt.Controls.Add(this.radEnglish);
             this.grbHelloWorldInt.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grbHelloWorldInt.ForeColor = System.Drawing.SystemColors.Control;
             this.grbHelloWorldInt.Location = new System.Drawing.Point(583, 284);
             this.grbHelloWorldInt.Name = "grbHelloWorldInt";
             this.grbHelloWorldInt.Size = new System.Drawing.Size(458, 100);
@@ -129,7 +134,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::HelloWorldIntAllanL.Properties.Resources._1_U_R58ahr5dtAvtSLGK2wXg;
-            this.ClientSize = new System.Drawing.Size(1508, 654);
+            this.ClientSize = new System.Drawing.Size(1555, 654);
             this.Controls.Add(this.grbHelloWorldInt);
             this.Controls.Add(this.lblHelloWorld);
             this.Name = "frmHelloWorldInt";

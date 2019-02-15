@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Allan Léveillé
+ * Created on: 11 February, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #5 - HelloWorldInt
+ * This program uses radio buttons to change the label to the language displayed. 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
