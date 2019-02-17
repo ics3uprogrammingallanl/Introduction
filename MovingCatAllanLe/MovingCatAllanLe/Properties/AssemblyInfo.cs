@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MovingCatAllanL")]
+[assembly: AssemblyTitle("MovingCatAllanLe")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MovingCatAllanL")]
+[assembly: AssemblyProduct("MovingCatAllanLe")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("de920d20-73e4-4292-957c-3bd265702c60")]
+[assembly: Guid("65089ad7-6cbf-4001-8b9d-c0cb54d33334")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,6 +1,6 @@
-﻿namespace MovingCatAllanL
+﻿namespace MovingCatAllanLe
 {
-    partial class Form1
+    partial class MovingCatForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,9 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // MovingCatForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "MovingCatForm";
+            this.Text = "Moving Cat by AllanL";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MovingCatAllanL
+namespace MovingCatAllanLe
 {
-    public partial class Form1 : Form
+    public partial class MovingCatForm : Form
     {
-        public Form1()
+        public MovingCatForm()
         {
             InitializeComponent();
         }

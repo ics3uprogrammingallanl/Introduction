@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MovingCatAllanL.Properties
+namespace MovingCatAllanLe.Properties
 {
 
 

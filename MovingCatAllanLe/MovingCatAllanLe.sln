@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingCatAllanL", "MovingCatAllanLe\MovingCatAllanL.csproj", "{65089AD7-6CBF-4001-8B9D-C0CB54D33334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65089AD7-6CBF-4001-8B9D-C0CB54D33334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65089AD7-6CBF-4001-8B9D-C0CB54D33334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65089AD7-6CBF-4001-8B9D-C0CB54D33334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65089AD7-6CBF-4001-8B9D-C0CB54D33334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E3C0D6-3B28-48A7-B688-478A9CF3DD23}
+	EndGlobalSection
+EndGlobal
